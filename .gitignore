@@ -1,0 +1,18 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Fortran module files
+*.mod
+*.smod
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Dataset binary files
+*-ubyte
+*-ubyte.gz
